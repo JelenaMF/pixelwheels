@@ -1,0 +1,11 @@
+{
+  "jrePath": "jre",
+  "classPath": [
+    "pixelwheels.jar"
+  ],
+  "mainClass": "com.agateau.pixelwheels.desktop.DesktopLauncher",
+  "useZgcIfSupportedOs": false,
+  "vmArgs": [
+    "-Xmx1G"
+  ]
+}
